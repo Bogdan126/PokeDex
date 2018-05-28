@@ -1,0 +1,17 @@
+C:\Users\Bogdan\source\repos\ForFun\ForFun\bin\Debug\ForFun.exe.config
+C:\Users\Bogdan\source\repos\ForFun\ForFun\bin\Debug\ForFun.exe
+C:\Users\Bogdan\source\repos\ForFun\ForFun\bin\Debug\ForFun.pdb
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\App.g.cs
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun_MarkupCompile.cache
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun_MarkupCompile.lref
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.g.resources
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.csproj.GenerateResource.Cache
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.exe
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\ForFun.pdb
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\PokeApp.g.cs
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\PokeEdition.g.cs
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\PokeApp.baml
+C:\Users\Bogdan\source\repos\ForFun\ForFun\obj\Debug\PokeEdition.baml
